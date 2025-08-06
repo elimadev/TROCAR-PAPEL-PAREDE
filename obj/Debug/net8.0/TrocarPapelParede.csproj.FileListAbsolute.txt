@@ -1,0 +1,14 @@
+c:\dev\csharp\TrocarPapelParede\bin\Debug\net8.0\TrocarPapelParede.exe
+c:\dev\csharp\TrocarPapelParede\bin\Debug\net8.0\TrocarPapelParede.deps.json
+c:\dev\csharp\TrocarPapelParede\bin\Debug\net8.0\TrocarPapelParede.runtimeconfig.json
+c:\dev\csharp\TrocarPapelParede\bin\Debug\net8.0\TrocarPapelParede.dll
+c:\dev\csharp\TrocarPapelParede\bin\Debug\net8.0\TrocarPapelParede.pdb
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\TrocarPapelParede.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\TrocarPapelParede.AssemblyInfoInputs.cache
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\TrocarPapelParede.AssemblyInfo.cs
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\TrocarPapelParede.csproj.CoreCompileInputs.cache
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\TrocarPapelParede.dll
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\refint\TrocarPapelParede.dll
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\TrocarPapelParede.pdb
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\TrocarPapelParede.genruntimeconfig.cache
+c:\dev\csharp\TrocarPapelParede\obj\Debug\net8.0\ref\TrocarPapelParede.dll
