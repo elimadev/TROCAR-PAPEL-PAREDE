@@ -1,2 +1,0 @@
-C:\dev\csharp\TrocarPapelParede\bin\Release\net8.0\win-x64\publish\TrocarPapelParede.pdb
-C:\dev\csharp\TrocarPapelParede\bin\Release\net8.0\win-x64\publish\TrocarPapelParede.exe
