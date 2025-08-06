@@ -1,9 +1,0 @@
-2025-07-11 08:57:37 - 🔄 Iniciando rotina de papel de parede.
-2025-07-11 08:57:38 - 🖼️ Imagem selecionada: \\10.172.0.11\public\wallpaper\windows-10-red-in-4k-wallpaper-preview.jpg
-2025-07-11 08:57:38 - 📁 Imagem copiada para: c:\dev\csharp\TrocarPapelParede\bin\Debug\net8.0\Wallpaper\windows-10-red-in-4k-wallpaper-preview.jpg
-2025-07-11 08:57:38 - ✅ Papel de parede aplicado (usuário atual).
-2025-07-11 08:57:38 - ✔ Papel de parede aplicado para: Default User
-2025-07-11 08:57:38 - ✔ Papel de parede aplicado para: postgres
-2025-07-11 08:57:38 - ✔ Papel de parede aplicado para: SCMCTI
-2025-07-11 08:57:39 - ✔ Papel de parede aplicado para: teste
-2025-07-11 08:57:39 - ✔ Papel de parede aplicado para: Usuário Padrão
